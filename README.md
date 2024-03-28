@@ -69,4 +69,14 @@
    - Exemplo de saída: Sequência de Fibonacci até 50: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34.
 
 4. **Substituir múltiplos de 3 pela palavra "Fizz" e múltiplos de 5 pela palavra "Buzz" na contagem de 1 a 100.**
-   - Exemplo de saída: 1, 2, Fizz, 4, Buzz, F
+   - Exemplo de saída: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, FizzBuzz, ...
+
+5. **Exibir a tabuada de multiplicação do 1 ao 10.**
+   - Exemplo de saída:
+
+     ```
+     1 x 1 = 1   2 x 1 = 2   3 x 1 = 3   ...   10 x 1 = 10
+     1 x 2 = 2   2 x 2 = 4   3 x 2 = 6   ...   10 x 2 = 20
+     ...
+     1 x 10 = 10  2 x 10 = 20  3 x 10 = 30  ...   10 x 10 = 100
+     ```
