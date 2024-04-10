@@ -4,12 +4,8 @@
     {
         static void Main(string[] args)
         {
-            double primeiraProva;
-            double segundaProva;
-            double media;
-            double pesoDaProvaUm;
-            double pesoDaProvaDois;
-
+            double primeiraProva, segundaProva, media, pesoDaProvaUm, pesoDaProvaDois;
+            
             Console.WriteLine("Digite a nota da primeira prova: ");
             primeiraProva = Double.Parse(Console.ReadLine());
 
